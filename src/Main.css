@@ -1,0 +1,19 @@
+#a {
+	float:left;
+}
+#ex {
+	background-color: white;
+	width:700px;
+	height: 300px;
+	overflow: auto;
+}
+
+main{
+	float: left;
+	width: 1100px;
+}
+
+li img{
+	height: 300px;
+	float: left;
+}
