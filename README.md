@@ -11,4 +11,4 @@ Navigation includes Home button which redirects to Home page of the site and als
 2. Create a folder and extract files in the folder. 
 3. Navigate to the root directory from CMD. 
 4. Run the command "npm install".
-5. Run the command "npm start".
+5. Run the command "npm start". 
