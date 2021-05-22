@@ -13,3 +13,15 @@
 3. Navigate to the root directory from CMD. 
 4. Run the command "npm install".
 5. Run the command "npm start". 
+
+# Screen Captures
+
+* Following are some screen captures of web page.
+
+![Alt text](Image/Image1.png)
+
+![Alt text](Image/Image2.png)
+
+![Alt text](Image/Image3.png)
+
+![Alt text](Image/Image4.png)
